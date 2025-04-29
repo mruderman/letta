@@ -12,7 +12,7 @@ Before running this example, make sure you have letta>=0.5.0 installed. This exa
 export OPENAI_API_KEY=...
 pip install letta
 ````
-Then, instead the `examples/swarm` directory, run:
+Then, inside the `examples/swarm` directory, run:
 ```bash
 python simple.py
 ```
